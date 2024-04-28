@@ -16,3 +16,15 @@ body {
     height: 100vh;
     background-color: rgb(234, 215, 189);
 }
+
+.button {
+    border-radius: 50%;
+    background-color: burlywood;
+    color: brown;
+}
+
+.todo {
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+}
